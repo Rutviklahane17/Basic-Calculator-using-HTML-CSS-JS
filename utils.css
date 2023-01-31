@@ -1,0 +1,31 @@
+.text-center{
+  
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+.container{
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  
+}
+.mx-auto{
+  margin: auto;
+}
+.m-w-20{
+  max-width: 50vw;
+}
+.flex{
+  display:flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+
+.imgIcon{
+  justify-content: center;
+  max-width: 66px;
+  max-height:66px;
+  
+}
